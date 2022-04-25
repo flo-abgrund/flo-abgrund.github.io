@@ -10,8 +10,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "F.Abgrund"
-description:	       "An Athropologists' blog and website"
+title:		           "Abyss"
+description:	       "field notes and anthropological insights"
 author:              "F.Abgrund"
 
 # Adding some other information to use in different places.
