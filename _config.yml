@@ -10,14 +10,15 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Abyss"
-description:	       "field notes and anthropological insights"
+
 author:              "F.Abgrund"
 
 # Adding some other information to use in different places.
 # Copyright
-
 copyright:           "F.Abgrund"
+
+# Adding a site logo to display either before the title or instead
+logo:                
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
